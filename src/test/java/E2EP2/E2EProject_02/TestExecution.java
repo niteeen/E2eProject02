@@ -24,7 +24,7 @@ public class TestExecution extends Basicbrw {
 		System.out.println(title);
 		
 		Assert.assertEquals(title, "Rahul Shetty Academy");
-		driver.close();
+		driver.quit();
 		
 			
 	}
