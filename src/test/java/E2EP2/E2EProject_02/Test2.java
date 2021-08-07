@@ -20,7 +20,7 @@ public class Test2 {
 		 driver.get("http://www.qaclickacademy.com/");
 		
 		
-		
+		driver.close();
 		
 	};
 	

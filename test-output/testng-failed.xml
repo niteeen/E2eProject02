@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="E2EP2.E2EProject_02.TestExecution">
+      <class name="E2EP2.E2EProject_02.Alerts_pop">
         <methods>
-          <include name="executeTestcase"/>
+          <include name="Alerts"/>
         </methods>
-      </class> <!-- E2EP2.E2EProject_02.TestExecution -->
+      </class> <!-- E2EP2.E2EProject_02.Alerts_pop -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
